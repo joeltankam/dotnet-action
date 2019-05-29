@@ -1,8 +1,8 @@
 FROM microsoft/dotnet:sdk
 
 LABEL version="1.0.0"
-LABEL repository="https://github.com/joeltankam/dotnet-actions"
-LABEL homepage="https://github.com/joeltankam/dotnet-actions"
+LABEL repository="https://github.com/joeltankam/dotnet-action"
+LABEL homepage="https://github.com/joeltankam/dotnet-action"
 LABEL maintainer="Joël TANKAM <joel.tankam@gmail.com>"
 
 LABEL com.github.actions.name=".NET Core CLI"
